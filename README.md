@@ -75,7 +75,7 @@ The simulation results are plotted and compared to the analytical model:
 
 To run the simulation and generate plots:
 
-`$python csma_simulator.py`
+`$ python csma_simulator.py`
 
 This will output:
 - Throughput vs. Load (S vs. G)
