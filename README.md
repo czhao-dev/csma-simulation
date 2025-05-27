@@ -86,4 +86,4 @@ This will output:
 - Maximum throughput value and corresponding channel load (G*)
 
 ## License
-This project is released for educational and research purposes. No warranty is provided.
+This project is released for academic and research purposes. Please credit the source if used in publications or derivative works.
